@@ -1,0 +1,10 @@
+{
+  "name": "voiture-balai",
+  "version": "1.0.0",
+  "description": "Cleans LLM-generated artifacts and traces from code and comments",
+  "author": {
+    "name": "Alexandre Mogere"
+  },
+  "license": "MIT",
+  "skills": "."
+}
